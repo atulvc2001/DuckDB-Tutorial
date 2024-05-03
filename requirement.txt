@@ -1,0 +1,6 @@
+# requirement.txt
+
+duckdb
+pandas==1.5.2
+seaborn==0.12.1
+matplotlib==3.6.2
